@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{0007F817-03C7-451E-B9C5-7FB0F91CB088}|Default">
+  <MonoDevelop.Ide.ItemProperties.Sorting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sorting/Unused_code.cs">
+    <Files>
+      <File FileName="Sorting/Program.cs" Line="17" Column="13" />
+      <File FileName="Sorting/bin/Debug/sorting_data.txt" Line="1" Column="1" />
+      <File FileName="Sorting/Unused_code.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Sorting" expanded="True">
+            <Node name="Sorting" expanded="True">
+              <Node name="Unused_code.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/risherrandalliii/Projects/Sorting/Sorting/obj/x86/Debug/Sorting.csprojAssemblyReference.cache
+/Users/risherrandalliii/Projects/Sorting/Sorting/obj/x86/Debug/Sorting.csproj.CoreCompileInputs.cache
+/Users/risherrandalliii/Projects/Sorting/Sorting/bin/Debug/Sorting.exe
+/Users/risherrandalliii/Projects/Sorting/Sorting/bin/Debug/Sorting.pdb
+/Users/risherrandalliii/Projects/Sorting/Sorting/obj/x86/Debug/Sorting.exe
+/Users/risherrandalliii/Projects/Sorting/Sorting/obj/x86/Debug/Sorting.pdb
